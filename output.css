@@ -705,6 +705,10 @@ video {
   height: 0.75rem;
 }
 
+.h-\[16rem\] {
+  height: 16rem;
+}
+
 .min-h-\[auto\] {
   min-height: auto;
 }
@@ -807,6 +811,10 @@ video {
 
 .rounded-lg {
   border-radius: 0.5rem;
+}
+
+.rounded-\[25\] {
+  border-radius: 25;
 }
 
 .bg-gray-100 {

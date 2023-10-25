@@ -769,6 +769,10 @@ video {
   align-items: center;
 }
 
+.justify-start {
+  justify-content: flex-start;
+}
+
 .justify-end {
   justify-content: flex-end;
 }
@@ -861,6 +865,10 @@ video {
 
 .pr-\[20vh\] {
   padding-right: 20vh;
+}
+
+.align-top {
+  vertical-align: top;
 }
 
 .align-middle {
